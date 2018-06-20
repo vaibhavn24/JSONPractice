@@ -7,7 +7,8 @@ public static void main(String[] args) {
 	array.add("Amit");
 	array.add(27);
 	array.add(50450);
-	
+	//////////////
+	// what is this
 	System.out.println(array);
 }
 }
